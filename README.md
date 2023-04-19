@@ -13,7 +13,7 @@ Working in Flutter & Dart Lang with Passion 💻💗🔥  <br>Also doing ... <br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piotrmazimazurek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piotrmazimazurek&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=piotrmazimazurek&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=piotrmazimazurek&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
