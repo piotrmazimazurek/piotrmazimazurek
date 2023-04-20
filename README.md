@@ -6,7 +6,7 @@ Working in Flutter & Dart Lang with Passion 💻💗🔥  <br>Also doing ... <br
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_with_mazi)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@code_with_mazi)
 [![Google Playstore](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://play.google.com/store/apps/dev?id=8219347968101811942)
-[!Twitter](https://img.shields.io/twitter/follow/KapitanMazi?style=social)
+[!Twitter](https://img.shields.io/twitter/follow/KapitanMazi?style=social)](https://twitter.com/KapitanMazi)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20224101) 
 
 # 💻 Tech Stack:
