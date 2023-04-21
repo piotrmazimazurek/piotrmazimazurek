@@ -24,7 +24,7 @@ Working in Flutter & Dart Lang with Passion 💻💗🔥  <br>Also doing ... <br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=piotrmazimazurek&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# 📬 Contact Me
+# 📬 Contact
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 📧[piotr@mazimazurek.dev]✅
